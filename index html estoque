@@ -28,27 +28,7 @@
                     <imput type="text" class= "form-control" id= "produtoDescricao" aria-describedby= "emailhelp">
                 </div>
                 
-            <div id= "form-group" style"display: nome">
-                <div class="form-group">
-                    <label for="produtoQuantidade">Quantidade</label>
-                    <imput type="text" class="form-control" id= "produtoQuantidade">
-                </div>
-                <button type= "button" onclick="cadastraProduto()" class="btn btn-primary">adicionar</button>
-                
-              <div>
-         <div>
-         
-         <script src="">
-              integrity=""
-              crossorigin=""></script>
-                
-          <script src="">
-              integrity=""
-              crossorigin=""></script>     
-                
-          <script src="">
-              integrity=""
-              crossorigin=""></script>      
+    
          
 </body>
 
